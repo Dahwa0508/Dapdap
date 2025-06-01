@@ -44,6 +44,14 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+# FLUTTER IGNORE DEFAULT
+.dart_tool/
+.packages
+build/
+android/.gradle/
+.idea/
+*.iml
+
 # Flutter/Dart related
 .dart_tool/
 .packages
